@@ -1,2 +1,2 @@
-# dotfiles
-my dotfiles
+# 思想
+- あまり豪華な設定にはしない
