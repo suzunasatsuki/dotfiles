@@ -1,1 +1,3 @@
+# Disable beep in the terminal
 set bell-style none
+
